@@ -36,9 +36,9 @@ existing ones - anything goes, as long as you make sure to:
 3. Use best practices (convars over config files, native commands wherever possible, etc.)
 
 Modifying or rewriting existing resources in this repository for local use only is _strongly_ discouraged.
-  | Version | Supported          |                          | Version | Supported          |    
-  | ------- | ------------------ |                          | ------- | ------------------ |
-  | 0.2.x   | :x:                |                          | 5.1.x   | :white_check_mark: |      
-                                                            | 5.0.x   | :x:                |      
-                                                            | 4.0.x   | :white_check_mark: |      
-                                                            | < 4.0   | :x:                |    
+| Version | Supported          |    
+| ------- | ------------------ |
+| 0.5.x   | :white_check_mark: |      
+| 0.0.3.x   | :x:                |      
+| 4.0.x   | :white_check_mark: |      
+| < 4.0   | :x:                |    
