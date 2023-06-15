@@ -1,3 +1,23 @@
+# ขั้นตอนติดตั้งสคริปต์ 
+วิธีแรกให้หาสคริปต๋หรือสคริปต์ของท่านมาให้พร้อม เริ่ม
+1.วิธีแรกให้นำสคริปของท่านเองมาว่างFile ของท่านเอง หรือสร้าง File ตัวอย่าง
+```
+C:/Server/server-data/resources/resources/[base]/test_script
+```
+2.ให้ค้ดลอกชื่อสคริปต์ของท่านมาวางไว้ใน server.cfg 
+```
+## [base] ## File ชื่อโฟล์ของท่านเองที่สร้างขึ้น
+ensure test_script
+start test_script
+
+ensure [base]
+start [base]
+```
+
+## EN 33 ##
+
+# Script installation steps
+
 # cfx-server-data
 _The data repository for Cfx.re servers_
 
