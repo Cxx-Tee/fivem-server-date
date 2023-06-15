@@ -4,7 +4,7 @@
 ```
 C:/Server/server-data/resources/resources/[base]/test_script
 ```
-2.ให้ค้ดลอกชื่อสคริปต์ของท่านมาวางไว้ใน server.cfg [ตัวอย่างที่1](https://docs.fivem.net/docs/server-manual/server-commands/) [ตัวอย่างที่2](https://docs.fivem.net/docs/server-manual/setting-up-a-server-vanilla/)[ตัวอย่างที่3]([https://docs.fivem.net/docs/server-manual/setting-up-a-server-vanilla/](https://cdn.discordapp.com/attachments/894242984600686663/1118925115963478156/image.png))
+2.ให้ค้ดลอกชื่อสคริปต์ของท่านมาวางไว้ใน server.cfg [ตัวอย่างที่1](https://docs.fivem.net/docs/server-manual/server-commands/) [ตัวอย่างที่2](https://docs.fivem.net/docs/server-manual/setting-up-a-server-vanilla/)[ตัวอย่างที่3](https://cdn.discordapp.com/attachments/894242984600686663/1118925115963478156/image.png)
 ```
 ## [base] ## File ชื่อโฟล์ของท่านเองที่สร้างขึ้น
 ensure test_script
